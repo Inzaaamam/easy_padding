@@ -1,3 +1,4 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+- Initial release
+- Added padding extension methods for Flutter widgets
